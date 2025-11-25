@@ -1,11 +1,21 @@
-# python_flask
-Desenvolvimento de uma aplicação web funcional utilizando o micro-framework Flask (Python). O projeto integra um back-end simples, front-end (HTML/CSS) e uma funcionalidade de Inteligência Artificial através da API do Gemini. O objetivo principal é praticar a implementação de rotas, templates e consumo de APIs.
-**Tema do projeto: Pontos Turísticos do Litoral Paraibano**
+# 🚀 Projeto Web Temático com Flask e Gemini
 
-● Descrição: Um guia digital explorando as praias, falésias e belezas naturais da costa da
-Paraíba.
-● Exemplos de Páginas de Conteúdo: /praias/tambaú, /praias/coqueirinho,
-/praias/barra-de-camaratuba.
-● Sugestão para o Gemini: Um "Assistente de Roteiro". O usuário pode perguntar: "Me
-monte um roteiro de 2 dias no Litoral Sul com foco em praias calmas" ou "Qual a melhor
-praia para surf perto de João Pessoa?".
+Este projeto é um guia digital interativo sobre os Pontos Turísticos do Litoral Paraibano, explorando praias e belezas naturais. O principal objetivo é fornecer informações sobre a costa da Paraíba e oferecer um Assistente de Roteiro inteligente, alimentado pela API do Gemini.
+
+> **Nota:** Projeto desenvolvido para avaliação final do primeiro período do curso de Sistemas para Internet-UNIESP.
+
+---
+
+## 💡 Sobre o Projeto
+  
+Este projeto é uma aplicação web funcional desenvolvida com o micro-framework **Flask (Python)**, que integra uma funcionalidade de Inteligência Artificial utilizando a **API do Gemini**.
+
+**Objetivo Principal:**
+* Praticar e aplicar conceitos de desenvolvimento web, incluindo a criação de rotas, renderização de templates (HTML/CSS) e consumo de APIs externas.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Backend:** Python 3.10, Flask
+* **Frontend:** HTML5, CSS3
+* **Inteligência Artificial:** Google Gemini API
+
